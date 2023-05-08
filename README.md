@@ -1,6 +1,7 @@
 # LT会リポジトリ
 - LT会 2023/05/05
 - 自分の自己紹介webサイトを作ってみよう！
+- [スライド](https://www.canva.com/design/DAFiUO2NKWA/QTI8-9ep6Q2i3NdP3NrXZQ/view?utm_content=DAFiUO2NKWA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## クローンの方法
 Desktopにリポジトリをクローンする
