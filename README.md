@@ -24,5 +24,5 @@ cd lt-2023-05-08
 ![screencapture-127-0-0-1-5500-2023-05-05-21_48_56](https://user-images.githubusercontent.com/67742985/236461877-6bad71e9-9d44-4085-9f7a-78a46a8e9a54.png)
 
 ## Webサイトを公開する方法
-1. netlifyに[移動する](https://app.netlify.com/teams/yk-mt12/overview)
-2. リポジトリを連携する
+- github pagesを使用する
+https://pengi-n.co.jp/blog/git-githubpages/
